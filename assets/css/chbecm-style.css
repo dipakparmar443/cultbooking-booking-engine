@@ -1,0 +1,44 @@
+#adminmenu li#toplevel_page_cultbooking-booking-engine img {
+    width: 22px;
+    padding: 5px 0 0 0;
+    opacity: 1;
+}
+.wrap.chbecm_main_wrap .wp-core-ui .notice.is-dismissible {
+    margin: 0;
+}
+.wrap.chbecm_main_wrap span {
+    vertical-align: middle;
+}
+.wrap.chbecm_main_wrap .form-table th {
+    width: 140px;
+}
+.wrap.chbecm_main_wrap span.material-icons {
+    color: #4a90e2;
+    font-size: 30px;
+}
+.chbecm_main_wrap {
+    margin: 10px 20px 0 2px;
+    background-color: #fff;
+    padding: 20px 0 10px;
+}
+.chbecm_main_wrap h1{
+    margin: 0px 20px;
+}
+.chbecm_main_wrap form {
+    padding: 0px 20px 0px 20px;
+}
+.chbecm_main_wrap .wp-core-ui p .button {
+    vertical-align: baseline;
+    border: 0;
+    background: #004A87;
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 36px;
+    font-weight: 400;
+    letter-spacing: 0.040em;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    height: 38px;
+    padding: 0 20px;
+}
